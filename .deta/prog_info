@@ -1,0 +1,1 @@
+{"id":"8d18689d-0b18-443b-afe7-ad9eb5633c04","space":23319,"runtime":"python3.9","name":"loreeia_site_2","path":"c1wkon","project":"b0zk0mxy","account":"144798365827","region":"sa-east-1","deps":["fastapi","mysql-connector"],"envs":null,"public":true,"log_level":"debug","cron":""}
